@@ -13,8 +13,7 @@ Source code/text file to the in-memory representation (tree-like structure).
 Each HTML element becomes a **node** (object in that tree).
 The DOM can be **read and modified** using JavaScript.
 
-![img](media/
-htmlAlert.png)
+![img](media/htmlAlert.png)
 
 ```
 Document
