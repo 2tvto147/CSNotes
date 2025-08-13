@@ -1,6 +1,6 @@
 Web Development <br/>
 Summer 2025 <br/>
-**Slumber** <br/>
+**Slumber**
 ## What you should know
 - HTML
 - CSS
