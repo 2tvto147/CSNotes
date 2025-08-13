@@ -877,7 +877,7 @@ export default Alert;
 If the second class is changed to any other variant, the color scheme will change accordingly.
 
 Here is another example:
-![img](redAlert.png)
+![img](/media/redAlert.png)
 
 **Using props to pass strings to the alert class**
 
