@@ -874,6 +874,7 @@ export default Alert;
 ```
 
 ![img](/media/greenAlert.png)
+
 If the second class is changed to any other variant, the color scheme will change accordingly.
 
 Here is another example:
