@@ -575,7 +575,7 @@ export default ListGroup;
 ```
 
 **Note**: you can replace "item, index" on line 21 with event to see the type of event that occurs when you click each item.
-![img](/media/onClick Event.png)
+![img](/media/onClickEvent.png)
 
 Suppose you you want to do a more complicated event/function definition outside the return statement. You can do something like this.
 
