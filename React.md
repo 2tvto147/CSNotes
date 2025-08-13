@@ -13,8 +13,6 @@ Source code/text file to the in-memory representation (tree-like structure).
 Each HTML element becomes a **node** (object in that tree).
 The DOM can be **read and modified** using JavaScript.
 
-![img](media/htmlAlert.png)
-
 ```
 Document
  └── html
@@ -28,7 +26,7 @@ Document
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4IuYSmkWVaC6wPimdQD2LIOQFf1q4O5h72ZZyqHLYe2gc4XfKbXB1Wrjgh_fnZghvicg4z3F94tjWijmJY9oml47l-giMX1mXnvUcXINHiCCo3XZQ7XdP5I1ekTwzk0OXx-HAUw?key=JdQOKBNmsMOfiMwiEtXD2g)**
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_A9O8LoTM8HjB18T10SwZ4ofqh9R37o15PKyyCGIBqMwmMxsRsutPnwblFog4GLY8egq7ZV9qYHcd5-Eae1jlE7zRjT2QyhHZUxwQupsXwCpqcr60ZF72UKGld2jVH4LvvdfRmg?key=JdQOKBNmsMOfiMwiEtXD2g)**
 
-![[DOM.png]]
+![img](/media/DOM.png)
 ## Setting up the Development Environment
 
 For this tutorial you will need [Node.js](https://nodejs.org/en) version 16 or higher.
@@ -577,7 +575,7 @@ export default ListGroup;
 ```
 
 **Note**: you can replace "item, index" on line 21 with event to see the type of event that occurs when you click each item.
-![[onClick Event.png]]
+![img](/media/onClick Event.png)
 
 Suppose you you want to do a more complicated event/function definition outside the return statement. You can do something like this.
 
@@ -875,11 +873,11 @@ const Alert = () => {
 export default Alert;
 ```
 
-![[greenAlert.png]]
+![img](/media/greenAlert.png)
 If the second class is changed to any other variant, the color scheme will change accordingly.
 
 Here is another example:
-![[redAlert.png]]
+![img](redAlert.png)
 
 **Using props to pass strings to the alert class**
 
@@ -953,7 +951,7 @@ HTML content will not pass here. In order to use HTML content, the children prop
       </Alert>'
 ```
 
-![[htmlAlert.png]]
+![img](htmlAlert.png)
 
 ## Inspecting Components with React Dev Tools
 A useful browser extension [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) makes it easier to view the DOM and see the hierarchy of each component.
@@ -1101,12 +1099,12 @@ const Alert = ({ children, onClose }: Props) => {
 export default Alert;
 ```
 
-![[dynamicAlert.png]]
+![img](/media/dynamicAlert.png)
 
 ## Side Notes:
 
 note if you want to see how jsx is converted to js, you can view it at [babeljs](babeljs.io/repl).
-![[babel.png]]
+![img](/media/babel.png)
 
 **nodes_modules**: library files.
 
@@ -1118,7 +1116,7 @@ Extensions of TypeScript files should be .tsx (React components) or .ts (plain T
 
 Function components are more popular. When creating function components, always follow PascalCasing
 
-![[hmr.png]]
+![img](/media/hmr.png)
 
 **HMR**:  Hot Modular Replacement
 
