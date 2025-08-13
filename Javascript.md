@@ -9,11 +9,12 @@ JavaScript is an object-oriented computer programing language commonly used to c
 - Command-line Tools
 - Games
 
-``` title='gemini'
-JavaScript primarily runs in web browsers on the client-side, enabling dynamic and interactive web pages. Each major web browser includes a built-in JavaScript engine responsible for executing the code. Examples of these engines include V8 in Chrome, SpiderMonkey in Firefox, and JavaScriptCore in Safari.
+| Description                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JavaScript primarily runs in web browsers on the client-side, enabling dynamic and interactive web pages. Each major web browser includes a built-in JavaScript engine responsible for executing the code. Examples of these engines include V8 in Chrome, SpiderMonkey in Firefox, and JavaScriptCore in Safari. |
+| Beyond the browser, JavaScript can also run on the server-side using a runtime environment like Node.js. Node.js utilizes the V8 engine to allow JavaScript to be used for server-side development, building APIs, and various other backend applications.                                                        |
 
-Beyond the browser, JavaScript can also run on the server-side using a runtime environment like Node.js. Node.js utilizes the V8 engine to allow JavaScript to be used for server-side development, building APIs, and various other backend applications.
-```
+
 ## Setting Up the Development Environment
 
 You will first need an **editor**
