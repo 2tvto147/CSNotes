@@ -26,7 +26,7 @@ Document
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4IuYSmkWVaC6wPimdQD2LIOQFf1q4O5h72ZZyqHLYe2gc4XfKbXB1Wrjgh_fnZghvicg4z3F94tjWijmJY9oml47l-giMX1mXnvUcXINHiCCo3XZQ7XdP5I1ekTwzk0OXx-HAUw?key=JdQOKBNmsMOfiMwiEtXD2g)**
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_A9O8LoTM8HjB18T10SwZ4ofqh9R37o15PKyyCGIBqMwmMxsRsutPnwblFog4GLY8egq7ZV9qYHcd5-Eae1jlE7zRjT2QyhHZUxwQupsXwCpqcr60ZF72UKGld2jVH4LvvdfRmg?key=JdQOKBNmsMOfiMwiEtXD2g)**
 
-![[DOM.png]]
+![[mediaReact/DOM.png]]
 ## Setting up the Development Environment
 
 For this tutorial you will need [Node.js](https://nodejs.org/en) version 16 or higher.
