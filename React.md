@@ -613,7 +613,7 @@ export default ListGroup;
 ```
 
 **Cool Trick**
-If you autocomplete a function from a library that is installed, but is not imported to the file, it will auto import for you.
+If you autocomplete a function from a library that is installed, but is not imported to the file, it will auto-import for you.
 
 **useState** in React is considered a hook that allows you to add a local state(data) to functional components. In this case:
 
@@ -637,7 +637,7 @@ function ListGroup() {
     "And a fifth one",
   ];
   
-  // Hook, a funciton that allows us to tap into React's features like state
+  // Hook, a function that allows us to tap into React's features like state
   // useState is a hook that allows us to manage state in functional components
   const [selectedIndex, setSelectedIndex] = useState(-1);
   
@@ -1099,12 +1099,12 @@ const Alert = ({ children, onClose }: Props) => {
 export default Alert;
 ```
 
-![[dynamicAlert.png]]
+![[mediaReact/dynamicAlert.png]]
 
 ## Side Notes:
 
 note if you want to see how jsx is converted to js, you can view it at [babeljs](babeljs.io/repl).
-![[babel.png]]
+![[mediaReact/babel.png]]
 
 **nodes_modules**: library files.
 
@@ -1116,7 +1116,7 @@ Extensions of TypeScript files should be .tsx (React components) or .ts (plain T
 
 Function components are more popular. When creating function components, always follow PascalCasing
 
-![[hmr.png]]
+![[mediaReact/hmr.png]]
 
 **HMR**:  Hot Modular Replacement
 
